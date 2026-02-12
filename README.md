@@ -7,12 +7,13 @@
 - 🎓 BTech student at IIITDM Kurnool  
 - ⭐ CodeChef 2★ (1400+) | Div 3  
 - 🔹 LeetCode: 130+ problems | 1590 rating  
-- 💻 Focused on Data Structures & Algorithms  
+- 💻 Focused on Data Structures & Algorithms
+- 🛠️ Building cool projects alongside competitive programming 
 
 ---
 
 ### 🛠️ Tech
-- C++ | C | Python  
+- C++ | C | Python | HTML | CSS | JavaScript 
 - STL | Algorithms | Problem Solving  
 - Git & GitHub  
 
