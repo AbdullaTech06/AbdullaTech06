@@ -40,17 +40,6 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdullaTech06&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullaTech06&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ### 🔥 Current Focus
 - 📌 Solving 2–3 DSA problems daily  
 - 📌 Strengthening advanced algorithms  
@@ -61,12 +50,6 @@
 ### 📫 Connect With Me
 - 💼 LinkedIn: https://www.linkedin.com/in/abdulla-ahmed-924563310  
 - 📧 Email: adduahm@gmail.com  
-
----
-
-### ⚡ Fun Fact
-I treat coding contests like boss battles.  
-Every WA is just a training arc.
 
 ---
 
