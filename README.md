@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Abdulla Ahmed
 
-I'm a BTech CS student at **IIITDM Kurnool**, passionate about competitive programming and building useful things with code. I spend most of my time grinding DSA problems in C++, pushing my rating on CodeChef, LeetCode, and Codeforces, and occasionally shipping small web projects that solve real campus problems.
+I'm a BTech CS student at **IIITDM Kurnool**, passionate about competitive programming and building useful things with code. I spend most of my time grinding DSA problems in C++, pushing my rating on CodeChef, LeetCode, and Codeforces, and occasionally shipping small web projects that solve real campus problems. I'm also part of the **Film & Media Club** at IIITDMK, where I help with event media and organization.
 
 **Languages:** C++ | C | Python | HTML | CSS | JavaScript  
 **Focus:** Data Structures & Algorithms | Competitive Programming | Web Projects  
@@ -22,7 +22,7 @@ I'm a BTech CS student at **IIITDM Kurnool**, passionate about competitive progr
 
 ![CodeChef](https://img.shields.io/badge/CodeChef-2★%20%7C%201400+-5B4638?style=for-the-badge&logo=codechef&logoColor=white)
 ![LeetCode](https://img.shields.io/badge/LeetCode-230+%20Problems%20%7C%201674-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
-![Codeforces](https://img.shields.io/badge/Codeforces-AbdullaTech-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)
+![Codeforces](https://img.shields.io/badge/Codeforces-AbdullaTech%20%7C%201136-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)
 
 ---
 
