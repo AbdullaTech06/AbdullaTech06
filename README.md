@@ -20,7 +20,7 @@ I'm a BTech CS student at **IIITDM Kurnool**, passionate about competitive progr
 ## 🏆 Competitive Programming
 
 ![CodeChef](https://img.shields.io/badge/CodeChef-2★%20%7C%201400+-5B4638?style=for-the-badge&logo=codechef&logoColor=white)
-![LeetCode](https://img.shields.io/badge/LeetCode-130+%20Problems%20%7C%201590-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
+![LeetCode](https://img.shields.io/badge/LeetCode-230+%20Problems%20%7C%201674-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
 ![Division](https://img.shields.io/badge/Div%203-Active%20Contestant-orange?style=for-the-badge)
 
 ---
@@ -46,8 +46,8 @@ I'm a BTech CS student at **IIITDM Kurnool**, passionate about competitive progr
 
 ## 📊 GitHub Stats
 
-![Abdulla's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+![Abdulla's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbdullaTech06&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullaTech06&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
