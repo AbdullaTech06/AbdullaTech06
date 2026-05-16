@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Abdulla Ahmed
 
-I'm a BTech CS student at **IIITDM Kurnool**, passionate about competitive programming and building useful things with code. I spend most of my time grinding DSA problems in C++, pushing my rating on CodeChef, LeetCode, and Codeforces, and occasionally shipping small web projects that solve real campus problems. I'm also part of the **Film & Media Club** at IIITDMK, where I help with event media and organization.
+I'm a BTech CS student at **IIITDM Kurnool**, passionate about competitive programming and building useful things with code. I spend most of my time grinding DSA problems in C++, pushing my rating on CodeChef, LeetCode, and Codeforces, and occasionally shipping small web projects that solve real campus problems.
 
 **Languages:** C++ | C | Python | HTML | CSS | JavaScript  
 **Focus:** Data Structures & Algorithms | Competitive Programming | Web Projects  
