@@ -50,7 +50,7 @@ I'm a BTech CS student at **IIITDM Kurnool**, passionate about competitive progr
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=AbdullaTech06&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullaTech06&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AbdullaTech06&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)](https://github.com/AbdullaTech06)
 
 ---
 
