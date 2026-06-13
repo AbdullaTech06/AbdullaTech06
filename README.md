@@ -37,7 +37,7 @@
 ## 2. About Section
 
 ### Professional Biography
-I am a first-year Computer Science undergraduate at IIITDM Kurnool with a strong structural foundation in Data Structures, Algorithmic Analysis, and Object-Oriented Programming. My technical approach balances clean software development with analytical problem-solving, proven by solving over 750 algorithmic problems across major competitive programming platforms.
+I am a Computer Science undergraduate at IIITDM Kurnool with a strong structural foundation in Data Structures, Algorithmic Analysis, and Object-Oriented Programming. My technical approach balances clean software development with analytical problem-solving, proven by solving over 750 algorithmic problems across major competitive programming platforms.
 
 I actively build automated workflows using agentic APIs, develop responsive, map-based frontend applications, and implement low-level logic engines. I apply an engineering-first mindset to break down complex logic, optimize runtime complexity, and design useful software tools.
 
@@ -103,7 +103,7 @@ An automated pipeline workflow designed to handle job listing ingestion, semanti
 | **Scale** | Multi-node automation setup processing web scraped job listings daily. |
 | **Performance** | Automated execution path replacing manual analysis entirely. |
 | **Security** | Secure credential integration linking target Google Workspace API keys. |
-| **Impact** | Dynamically evaluates job descriptions against user metrics to output custom resumes. |
+| **Impact** | Dynamically evaluates job descriptions against user matrices to output custom resumes. |
 | **Repository** | [Internal Integration Architecture] |
 
 ### System Engineering Summary
@@ -174,7 +174,7 @@ Implemented an interactive terminal game architecture written completely in C. B
 | **LeetCode Standing** | Earned a **1700+ Contest Rating** with more than 360 optimized solutions recorded. |
 | **CodeChef Milestone** | Verified **3-Star Rating** achieved through consistent performance in rated contests. |
 | **Codeforces Profile** | Reached a peak **1183 Rating** as a regular active participant in rated simulation rounds. |
-| **National Examination** | Secured a high **97.64 Percentile** ranking in the competitive JEE Main 2025 entrance exam. |
+| **National Examination** | Secured a high **97.64 Percentile** ranking in the competitive JEE Main entrance exam. |
 
 </div>
 
@@ -268,33 +268,3 @@ focus_parameters:
   open_to:
     - "Software Engineering & Technical Internship Roles"
     - "Collaborative Development Within Structured Project Groups"
-
----
-
-## 15. Connect Section
-
-<div align="center">
-  <a href="mailto:adduahm@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Connect" />
-  </a>
-  <a href="https://www.linkedin.com/in/abdulla-ahmed-924563310">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Connect" />
-  </a>
-  <a href="https://github.com/AbdullaTech06">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Connect" />
-  </a>
-  <a href="https://github.com/AbdullaTech06">
-    <img src="https://img.shields.io/badge/Portfolio-3B82F6?style=for-the-badge&logo=codepen&logoColor=white" alt="Portfolio Connect" />
-  </a>
-</div>
-
----
-
-## 16. Footer Section
-
-<div align="center">
-  <br>
-  <i>"Simplicity is the ultimate sophistication. Continuous optimization remains the supreme standard of engineering."</i>
-  <br><br>
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=9333EA&height=100&section=footer" width="100%" alt="Footer Banner" />
-</div>
