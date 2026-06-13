@@ -268,3 +268,33 @@ focus_parameters:
   open_to:
     - "Software Engineering & Technical Internship Roles"
     - "Collaborative Development Within Structured Project Groups"
+
+---
+
+## 15. Connect Section
+
+<div align="center">
+  <a href="mailto:adduahm@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Connect" />
+  </a>
+  <a href="https://www.linkedin.com/in/abdulla-ahmed-924563310">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Connect" />
+  </a>
+  <a href="https://github.com/AbdullaTech06">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Connect" />
+  </a>
+  <a href="https://github.com/AbdullaTech06">
+    <img src="https://img.shields.io/badge/Portfolio-3B82F6?style=for-the-badge&logo=codepen&logoColor=white" alt="Portfolio Connect" />
+  </a>
+</div>
+
+---
+
+## 16. Footer Section
+
+<div align="center">
+  <br>
+  <i>"Simplicity is the ultimate sophistication. Continuous optimization remains the supreme standard of engineering."</i>
+  <br><br>
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=9333EA&height=100&section=footer" width="100%" alt="Footer Banner" />
+</div>
