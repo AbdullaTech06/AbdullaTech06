@@ -12,9 +12,6 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/AbdullaTech06" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Premium-3B82F6?style=for-the-badge&logo=codepen&logoColor=white" alt="Portfolio" />
-  </a>
   <a href="https://www.linkedin.com/in/abdulla-ahmed-924563310" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -34,25 +31,24 @@
 
 ---
 
-## 2. About Section
+## About
 
-### Professional Biography
-I am a Computer Science undergraduate at IIITDM Kurnool with a strong structural foundation in Data Structures, Algorithmic Analysis, and Object-Oriented Programming. My technical approach balances clean software development with analytical problem-solving, proven by solving over 750 algorithmic problems across major competitive programming platforms.
+I build automation pipelines, map-based web tools, and algorithmic solutions. Currently focused on backend systems, competitive programming, and AI workflow design — with a **1700+ LeetCode contest rating** and 750+ problems solved across platforms.
 
-I actively build automated workflows using agentic APIs, develop responsive, map-based frontend applications, and implement low-level logic engines. I apply an engineering-first mindset to break down complex logic, optimize runtime complexity, and design useful software tools.
+Strong foundation in Data Structures, Algorithm Analysis, and Object-Oriented Programming in C++ and C. I apply an engineering-first mindset to break down complex logic, optimize runtime complexity, and ship useful software tools.
 
-### Key Focus Areas
-* **Software Engineering:** Core focus on Data Structures and Algorithms (DSA), Recursion, and object-oriented paradigms using C++ and C.
-* **AI & Automation:** Designing autonomous multi-node pipelines using n8n architectures, LLM orchestration, and programmatic document compilers.
-* **Full Stack Development:** Structuring lightweight frontend web applications with real-time API integrations and geofenced mapping tools.
+### Focus Areas
+* **Software Engineering:** Core focus on DSA, recursion, and OOP using C++ and C.
+* **AI & Automation:** Designing autonomous multi-node pipelines using n8n, LLM orchestration, and programmatic document compilers.
+* **Full Stack Development:** Lightweight frontend web applications with real-time API integrations and geofenced mapping tools.
 
-### 🇩🇪 Open To
+### Open To
 * **Target Roles:** Software Engineering Internships, Technical Dev Roles, Open Source Collaborations.
 * **Technical Domains:** Algorithmic Problem Solving, Backend & System Utilities, AI Workflow Automation.
 
 ---
 
-## 3. Tech Stack Section
+## Tech Stack
 
 ### Languages
 <p align="left">
@@ -76,18 +72,18 @@ I actively build automated workflows using agentic APIs, develop responsive, map
 
 ---
 
-## 4. AI / ML Expertise Section
+## AI / Automation Expertise
 
 | Domain | Proficiency | Details |
 | :--- | :--- | :--- |
+| **Algorithmic Heuristics** | Intermediate | Game tree search traversal using depth-aware evaluation and adversarial mechanics. |
 | **Workflow Automation** | Intermediate | Deploying multi-node pipelines in n8n featuring structural API ingestion loops. |
 | **LLM Integration** | Functional | Prompt engineering, dynamic API context routing using Google Gemini and OpenAI models. |
-| **Algorithmic Heuristics** | Intermediate | Game tree search traversal using depth-aware evaluation and adversarial mechanics. |
-| **Data Analysis** | Functional | Scientific calculation and data manipulation utilizing Python arrays with NumPy and Pandas. |
+| **Data Analysis** | Functional | Scientific calculation and data manipulation using Python with NumPy and Pandas. |
 
 ---
 
-## 5. Featured Projects Section
+## Featured Projects
 
 <details>
 <summary>📂 <b>Autonomous Job Application Pipeline</b></summary>
@@ -96,18 +92,16 @@ I actively build automated workflows using agentic APIs, develop responsive, map
 ### Overview
 An automated pipeline workflow designed to handle job listing ingestion, semantic optimization, and automated localized document generation.
 
-### Performance & Specifications Matrix
+### Specifications
 | Metric | Specification |
 | :--- | :--- |
 | **Stack** | n8n, Google Gemini API, Apify, Google Drive API, Gmail API, LaTeX Engine |
-| **Scale** | Multi-node automation setup processing web scraped job listings daily. |
-| **Performance** | Automated execution path replacing manual analysis entirely. |
-| **Security** | Secure credential integration linking target Google Workspace API keys. |
-| **Impact** | Dynamically evaluates job descriptions against user matrices to output custom resumes. |
+| **Scale** | Multi-node automation setup processing web-scraped job listings daily. |
+| **Impact** | Dynamically evaluates job descriptions against user profiles to output custom-tailored resumes. |
 | **Repository** | [Internal Integration Architecture] |
 
-### System Engineering Summary
-Designed and deployed a 15+ node automated workflow within n8n that handles daily scraper inputs, deduplicates incoming records, and triggers processing agents. The engine passes raw criteria through a Gemini-powered optimization agent that matches target profiles, writes custom tailored professional resumes, and programmatically compiles them into clean PDF layouts via LaTeX formatting rules.
+### Summary
+Designed and deployed a 15+ node automated workflow within n8n that handles daily scraper inputs, deduplicates incoming records, and triggers processing agents. The engine passes raw criteria through a Gemini-powered optimization agent that matches target profiles, writes custom tailored professional resumes, and programmatically compiles them into clean PDF layouts via LaTeX.
 </details>
 
 <details>
@@ -117,18 +111,16 @@ Designed and deployed a 15+ node automated workflow within n8n that handles dail
 ### Overview
 A fully responsive, map-based campus navigation web application engineered for localized layout visualization and real-time positioning.
 
-### Performance & Specifications Matrix
+### Specifications
 | Metric | Specification |
 | :--- | :--- |
 | **Stack** | HTML5, CSS3, JavaScript, Leaflet.js, OpenStreetMap API |
 | **Scale** | Maps over 50 specific campus coordinates, rooms, and structural hubs. |
-| **Performance** | Liquid multi-device layout processing native mobile and desktop rendering easily. |
-| **Security** | Sandboxed client-side calculation utilizing secure default geolocation prompts. |
-| **Impact** | Built as a synchronized team project following coordinated engineering practices. |
+| **Performance** | Fully responsive across mobile and desktop. |
 | **Repository** | [IIITDM-Campus-Navigator](https://github.com/AbdullaTech06/IIITDM-Campus-Navigator) |
 
-### System Engineering Summary
-Developed and deployed a mobile-first spatial application parsing OpenStreetMap data layers into a customized interactive interface via Leaflet.js libraries. The system performs accurate GPS tracking alongside dynamic localized radius visualizations. Managed core versioning within a 4-member agile team using Git branching strategies, coordinating pull requests, asset integrations, and iterative code refactoring.
+### Summary
+Developed and deployed a mobile-first spatial application parsing OpenStreetMap data layers into a customized interactive interface via Leaflet.js. The system performs accurate GPS tracking alongside dynamic localized radius visualizations. Managed core versioning within a 4-member agile team using Git branching strategies, coordinating pull requests, asset integrations, and iterative code refactoring.
 </details>
 
 <details>
@@ -136,35 +128,33 @@ Developed and deployed a mobile-first spatial application parsing OpenStreetMap 
 <br>
 
 ### Overview
-A robust terminal-based adversarial logic game featuring predictive pathing tree calculations.
+A terminal-based adversarial logic game featuring predictive game tree calculations.
 
-### Performance & Specifications Matrix
+### Specifications
 | Metric | Specification |
 | :--- | :--- |
 | **Stack** | ANSI C, Standard Input/Output Libraries |
 | **Scale** | Multi-difficulty mathematical decision matrix covering exhaustive state variants. |
 | **Performance** | Instant computation loops for adversarial steps with zero interface latency. |
-| **Security** | Clean native C execution using safe memory structures and static conditions. |
-| **Impact** | Delivers an optimized algorithmic opponent that is theoretically unbeatable on max settings. |
+| **Impact** | Theoretically unbeatable opponent on max difficulty. |
 | **Repository** | [tictactoe](https://github.com/AbdullaTech06/tictactoe) |
 
-### System Engineering Summary
-Implemented an interactive terminal game architecture written completely in C. Built a custom Player vs AI gameplay system driven by the Minimax Tree Search Algorithm. The system scores potential game states while looking ahead across active paths, deploying depth-aware calculations across 3 separate difficulty levels to ensure perfect positional gameplay on the high difficulty profile.
+### Summary
+Implemented an interactive terminal game in C with a Player vs AI gameplay system driven by the Minimax Tree Search Algorithm. The system scores potential game states while looking ahead across active paths, deploying depth-aware calculations across 3 separate difficulty levels to ensure perfect positional play on high difficulty.
 </details>
 
 ---
 
-## 6. Experience Section
+## Experience
 
-### Student Ambassador 
+### Student Ambassador
 **LetsUpgrade** | *October 2025 – Present* (Remote)
-* **Scope of Work:** Managing student outreach and program communications to drive technical upskilling engagement across university circles.
-* **Core Impact:** Introduced core tracks in Data Structures, Web Development, and Competitive Programming to 50+ peers, successfully expanding enrollment and tracking community event operations.
-* **Skill Tags:** `Community Management` `Technical Outreach` `Event Coordination` `Communication`
+* Ran technical outreach sessions on DSA and competitive programming for 50+ students across university circles.
+* **Skill Tags:** `Community Management` `Technical Outreach` `Event Coordination`
 
 ---
 
-## 7. Achievements Section
+## Achievements
 
 <div align="center">
 
@@ -174,23 +164,23 @@ Implemented an interactive terminal game architecture written completely in C. B
 | **LeetCode Standing** | Earned a **1700+ Contest Rating** with more than 360 optimized solutions recorded. |
 | **CodeChef Milestone** | Verified **3-Star Rating** achieved through consistent performance in rated contests. |
 | **Codeforces Profile** | Reached a peak **1183 Rating** as a regular active participant in rated simulation rounds. |
-| **National Examination** | Secured a high **97.64 Percentile** ranking in the competitive JEE Main entrance exam. |
+| **National Examination** | Secured a **97.64 Percentile** ranking in the JEE Main entrance exam. |
 
 </div>
 
 ---
 
-## 8. Certifications Section
+## Certifications
 
-### 🏛️ University Academic Coursework
+### University Academic Coursework
 * <img src="https://img.shields.io/badge/IIITDM--Kurnool-Data%20Structures-6366F1?style=flat-square&logo=read-the-docs&logoColor=white" alt="DSA Badge" />
-* <img src="https://img.shields.io/badge/IIITDM--Kurnool-Algorithms%20Analysis-8B5CF6?style=flat-square&logo=dependencycheck&logoColor=white" alt="Algorithms Badge" />
+* <img src="https://img.shields.io/badge/IIITDM--Kurnool-Algorithm%20Analysis-8B5CF6?style=flat-square&logo=dependencycheck&logoColor=white" alt="Algorithms Badge" />
 * <img src="https://img.shields.io/badge/IIITDM--Kurnool-OOP%20Concepts-A855F7?style=flat-square&logo=sublimetext&logoColor=white" alt="OOP Badge" />
 * <img src="https://img.shields.io/badge/IIITDM--Kurnool-Fundamentals%20of%20AI-3B82F6?style=flat-square&logo=googlebard&logoColor=white" alt="AI Badge" />
 
 ---
 
-## 9. Coding Profiles Section
+## Coding Profiles
 
 <div align="center">
   <a href="https://leetcode.com/u/AbdullaTech/" target="_blank">
@@ -206,7 +196,7 @@ Implemented an interactive terminal game architecture written completely in C. B
 
 ---
 
-## 10. GitHub Analytics Section
+## GitHub Analytics
 
 <div align="center">
   <table border="0">
@@ -228,7 +218,7 @@ Implemented an interactive terminal game architecture written completely in C. B
 
 ---
 
-## 11. GitHub Trophies Section
+## GitHub Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=AbdullaTech06&theme=onedark&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=false" alt="GitHub Trophies" />
@@ -236,7 +226,7 @@ Implemented an interactive terminal game architecture written completely in C. B
 
 ---
 
-## 12. Contribution Activity Section
+## Contribution Activity
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdullaTech06&theme=github-dark-purple&bg_color=0D1117&color=9333EA&line=A855F7&point=6366F1&area=true&hide_border=false" width="100%" alt="Contribution Activity Graph" />
@@ -244,7 +234,7 @@ Implemented an interactive terminal game architecture written completely in C. B
 
 ---
 
-## 13. Contribution Snake Section
+## Contribution Snake
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/AbdullaTech06/AbdullaTech06/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" width="100%" />
@@ -252,19 +242,37 @@ Implemented an interactive terminal game architecture written completely in C. B
 
 ---
 
-## 14. Current Focus Section
+## Current Focus
 
-```yaml
-focus_parameters:
-  learning:
-    - "Advanced Data Structures & Analysis of Algorithms"
-    - "Advanced DOM Manipulation and Modern Application Architecture"
-  building:
-    - "Refining Robust End-to-End API Integration Workflows"
-    - "Interactive Client-Side Geofenced Interfaces"
-  exploring:
-    - "LLM Fine-Tuning and Prompt Chaining Engineering Protocols"
-    - "Mathematical Complexity Reduction Techniques in Competitive Systems"
-  open_to:
-    - "Software Engineering & Technical Internship Roles"
-    - "Collaborative Development Within Structured Project Groups"
+| Category | Focus |
+| :--- | :--- |
+| **Learning** | Advanced Data Structures & Algorithm Analysis |
+| **Learning** | Advanced DOM Manipulation and Modern Application Architecture |
+| **Building** | Refining Robust End-to-End API Integration Workflows |
+| **Building** | Interactive Client-Side Geofenced Interfaces |
+| **Exploring** | LLM Fine-Tuning and Prompt Chaining Engineering Protocols |
+| **Exploring** | Mathematical Complexity Reduction Techniques in Competitive Systems |
+| **Open To** | Software Engineering & Technical Internship Roles |
+| **Open To** | Collaborative Development Within Structured Project Groups |
+
+---
+
+## Connect
+
+<div align="center">
+  <a href="mailto:adduahm@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Connect" />
+  </a>
+  <a href="https://www.linkedin.com/in/abdulla-ahmed-924563310">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Connect" />
+  </a>
+  <a href="https://github.com/AbdullaTech06">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Connect" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=9333EA&height=100&section=footer" width="100%" alt="Footer Banner" />
+</div>
