@@ -252,7 +252,7 @@ Developed a clean low-level execution layer in C featuring deterministic adversa
 
 ---
 
-## 14. Current Focus Section
+## 14. Current Focus Section 
 
 ```yaml
 system_parameters:
