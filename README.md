@@ -3,12 +3,12 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Computer+Science+Undergraduate;AI+%2F+ML+Systems+Engineer;Competitive+Programmer;Full+Stack+Developer" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Computer+Science+Undergraduate;Competitive+Programmer;AI+%26+Workflow+Automation;Full+Stack+Developer" alt="Typing Animation" />
 </div>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Institution-IIITDM%20Kurnool-6366F1?style=flat-square&logo=education&logoColor=white" alt="Academic Badge" />
-  <img src="https://img.shields.io/badge/Location-Karnataka%2C%20India-8B5CF6?style=flat-square&logo=googlemaps&logoColor=white" alt="Location Badge" />
+  <img src="https://img.shields.io/badge/Location-Bidar%2C%20Karnataka%2C%20India-8B5CF6?style=flat-square&logo=googlemaps&logoColor=white" alt="Location Badge" />
 </div>
 
 <div align="center">
@@ -37,18 +37,18 @@
 ## 2. About Section
 
 ### Professional Biography
-I am a rigorous and performance-driven Computer Science undergraduate specializing in complex algorithmic design, AI-driven systems orchestration, and enterprise software engineering architectures. With a solid analytical core established through high-percentile engineering competitive selections, my focus lies at the intersection of mathematical problem-solving and automated pipeline production. 
+I am a first-year Computer Science undergraduate at IIITDM Kurnool with a strong structural foundation in Data Structures, Algorithmic Analysis, and Object-Oriented Programming. My technical approach balances clean software development with analytical problem-solving, proven by solving over 750 algorithmic problems across major competitive programming platforms.
 
-I architect autonomous data workflows, build scalable frontend infrastructures, and optimize machine learning components for efficiency and deployment. Guided by a product engineering mindset, I prioritize code modularity, minimal latency, and robust test coverage across all architectural levels.
+I actively build automated workflows using agentic APIs, develop responsive, map-based frontend applications, and implement low-level logic engines. I apply an engineering-first mindset to break down complex logic, optimize runtime complexity, and design useful software tools.
 
 ### Key Focus Areas
-* **Software Engineering:** Deep foundational competency in advanced data structures, algorithmic design analysis, and memory-optimized OOP paradigms.
-* **AI/ML & Automation:** Production-grade pipeline automation, agentic LLM orchestration, semantic optimization, and predictive game state structures.
-* **Full Stack Development:** Execution of clean, asynchronous web infrastructures and geofenced distributed components.
+* **Software Engineering:** Core focus on Data Structures and Algorithms (DSA), Recursion, and object-oriented paradigms using C++ and C.
+* **AI & Automation:** Designing autonomous multi-node pipelines using n8n architectures, LLM orchestration, and programmatic document compilers.
+* **Full Stack Development:** Structuring lightweight frontend web applications with real-time API integrations and geofenced mapping tools.
 
 ### 🇩🇪 Open To
-* **Target Roles:** Software Engineering Internships, AI/ML Infrastructure Internships, Open Source Collaborations.
-* **Technical Domains:** Distributed Systems, Algorithmic Engine Optimization, LLMOps Platforms.
+* **Target Roles:** Software Engineering Internships, Technical Dev Roles, Open Source Collaborations.
+* **Technical Domains:** Algorithmic Problem Solving, Backend & System Utilities, AI Workflow Automation.
 
 ---
 
@@ -71,7 +71,7 @@ I architect autonomous data workflows, build scalable frontend infrastructures, 
 
 ### Cloud, DevOps & Tooling
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash" alt="DevOps and Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="DevOps and Tools" />
 </p>
 
 ---
@@ -80,10 +80,10 @@ I architect autonomous data workflows, build scalable frontend infrastructures, 
 
 | Domain | Proficiency | Details |
 | :--- | :--- | :--- |
-| **Agentic Workflow Automation** | Advanced | High-density multi-node pipeline development using n8n and asynchronous API ingestion loops. |
-| **LLM Orchestration & Tuning** | Intermediate | Programmatic context windows configuration, prompt engineering optimization with OpenAI/Gemini APIs. |
-| **Game Tree Heuristics** | Advanced | Algorithmic implementations of depth-aware evaluation functions, adversarial matrix searching, and pruning. |
-| **Data Analytics** | Intermediate | Vector space mechanics, high-performance structured manipulation using NumPy and Pandas frameworks. |
+| **Workflow Automation** | Intermediate | Deploying multi-node pipelines in n8n featuring structural API ingestion loops. |
+| **LLM Integration** | Functional | Prompt engineering, dynamic API context routing using Google Gemini and OpenAI models. |
+| **Algorithmic Heuristics** | Intermediate | Game tree search traversal using depth-aware evaluation and adversarial mechanics. |
+| **Data Analysis** | Functional | Scientific calculation and data manipulation utilizing Python arrays with NumPy and Pandas. |
 
 ---
 
@@ -94,20 +94,20 @@ I architect autonomous data workflows, build scalable frontend infrastructures, 
 <br>
 
 ### Overview
-An enterprise-grade, asynchronous automation pipeline designed to orchestrate agentic systems for extraction, analysis, and custom application generation.
+An automated pipeline workflow designed to handle job listing ingestion, semantic optimization, and automated localized document generation.
 
 ### Performance & Specifications Matrix
 | Metric | Specification |
 | :--- | :--- |
 | **Stack** | n8n, Google Gemini API, Apify, Google Drive API, Gmail API, LaTeX Engine |
-| **Scale** | Fully automated daily cycles parsing, cleaning, and indexing hundreds of targeted listings. |
-| **Performance** | Multi-node parallelism with zero latency drops during active PDF generation cycles. |
-| **Security** | End-to-end OAuth2 token authentication loops managing confidential user data and cloud vaults. |
-| **Impact** | Completely eliminated manual overhead by replacing repetitive ingestion tasks with an AI agent. |
-| **Repository** | [Private Architectural Manifest] |
+| **Scale** | Multi-node automation setup processing web scraped job listings daily. |
+| **Performance** | Automated execution path replacing manual analysis entirely. |
+| **Security** | Secure credential integration linking target Google Workspace API keys. |
+| **Impact** | Dynamically evaluates job descriptions against user metrics to output custom resumes. |
+| **Repository** | [Internal Integration Architecture] |
 
 ### System Engineering Summary
-Engineered a comprehensive 15+ node orchestration workflow utilizing n8n pipelines to automate web scraping and deduplication layers. Integrates a fine-tuned Gemini agent executing advanced ATS processing vectors. The agent maps target schemas against individual user matrices, instantly rendering fully optimized resume files via dynamic, programmatic LaTeX compilations routed to secure cloud filesystems.
+Designed and deployed a 15+ node automated workflow within n8n that handles daily scraper inputs, deduplicates incoming records, and triggers processing agents. The engine passes raw criteria through a Gemini-powered optimization agent that matches target profiles, writes custom tailored professional resumes, and programmatically compiles them into clean PDF layouts via LaTeX formatting rules.
 </details>
 
 <details>
@@ -115,20 +115,20 @@ Engineered a comprehensive 15+ node orchestration workflow utilizing n8n pipelin
 <br>
 
 ### Overview
-A highly accurate, cross-platform spatial mapping and navigation engine tailored for high-density localized positioning optimization.
+A fully responsive, map-based campus navigation web application engineered for localized layout visualization and real-time positioning.
 
 ### Performance & Specifications Matrix
 | Metric | Specification |
 | :--- | :--- |
-| **Stack** | HTML5, CSS3, JavaScript (ES6+), Leaflet.js, OpenStreetMap API, Git |
-| **Scale** | Complete digital topological map coverage of 50+ campus landmarks and points of interest. |
-| **Performance** | Responsive UI/UX processing layout with fluid frame execution across mobile and desktop environments. |
-| **Security** | Secure client-side location rendering adhering strictly to user privacy and permission controls. |
-| **Impact** | Implemented collaborative source management architecture for multi-device performance synchronization. |
+| **Stack** | HTML5, CSS3, JavaScript, Leaflet.js, OpenStreetMap API |
+| **Scale** | Maps over 50 specific campus coordinates, rooms, and structural hubs. |
+| **Performance** | Liquid multi-device layout processing native mobile and desktop rendering easily. |
+| **Security** | Sandboxed client-side calculation utilizing secure default geolocation prompts. |
+| **Impact** | Built as a synchronized team project following coordinated engineering practices. |
 | **Repository** | [IIITDM-Campus-Navigator](https://github.com/AbdullaTech06/IIITDM-Campus-Navigator) |
 
 ### System Engineering Summary
-Architected a responsive geolocation client map using Leaflet.js rendering engines coupled with OpenStreetMap geospatial coordinate indexes. Implemented custom tracking mechanisms featuring dynamic error-radius boundaries and persistent client updates. Managed codebase integration using strict Git versioning workflows, handling isolated staging features, code reviews, and main-line deployment merges within an agile frame.
+Developed and deployed a mobile-first spatial application parsing OpenStreetMap data layers into a customized interactive interface via Leaflet.js libraries. The system performs accurate GPS tracking alongside dynamic localized radius visualizations. Managed core versioning within a 4-member agile team using Git branching strategies, coordinating pull requests, asset integrations, and iterative code refactoring.
 </details>
 
 <details>
@@ -136,20 +136,20 @@ Architected a responsive geolocation client map using Leaflet.js rendering engin
 <br>
 
 ### Overview
-A console-based mathematical game engine utilizing depth-bounded heuristic trees for optimal deterministic decision-making structures.
+A robust terminal-based adversarial logic game featuring predictive pathing tree calculations.
 
 ### Performance & Specifications Matrix
 | Metric | Specification |
 | :--- | :--- |
-| **Stack** | ANSI C, GCC Toolchain, POSIX Terminal Interface |
-| **Scale** | Multi-tiered game state trees mapping exhaustive mathematical branching configurations. |
-| **Performance** | Near $O(1)$ computational lookup matrices for adversarial tracking loops with instantaneous response. |
-| **Security** | Sandbox local memory structure with full input sanitization against buffer overflows. |
-| **Impact** | Achieved a mathematically proven unbeatable AI profile across complex difficulty matrices. |
+| **Stack** | ANSI C, Standard Input/Output Libraries |
+| **Scale** | Multi-difficulty mathematical decision matrix covering exhaustive state variants. |
+| **Performance** | Instant computation loops for adversarial steps with zero interface latency. |
+| **Security** | Clean native C execution using safe memory structures and static conditions. |
+| **Impact** | Delivers an optimized algorithmic opponent that is theoretically unbeatable on max settings. |
 | **Repository** | [tictactoe](https://github.com/AbdullaTech06/tictactoe) |
 
 ### System Engineering Summary
-Developed a clean low-level execution layer in C featuring deterministic adversarial simulations. The core engine applies a modified Minimax tree traversal method integrated with custom depth-aware evaluation mechanics. The system models complex move scoring variants to evaluate optimal strategic alternatives across 3 algorithmic difficulty tiers, achieving total optimal resilience against any user strategies.
+Implemented an interactive terminal game architecture written completely in C. Built a custom Player vs AI gameplay system driven by the Minimax Tree Search Algorithm. The system scores potential game states while looking ahead across active paths, deploying depth-aware calculations across 3 separate difficulty levels to ensure perfect positional gameplay on the high difficulty profile.
 </details>
 
 ---
@@ -158,9 +158,9 @@ Developed a clean low-level execution layer in C featuring deterministic adversa
 
 ### Student Ambassador 
 **LetsUpgrade** | *October 2025 – Present* (Remote)
-* **Scope of Work:** Directed digital technical community outreach strategy targeting engineering student pools to accelerate engagement with core technical competencies.
-* **Core Impact:** Accelerated awareness and enrollment metrics for intensive tracks in Data Structures, Advanced Web Architectures, and Competitive Programming tracks through modern engagement protocols and synchronized workspace coordinates.
-* **Skill Tags:** `Community Leadership` `Technical Outreach` `Agile Scheduling` `Public Speaking`
+* **Scope of Work:** Managing student outreach and program communications to drive technical upskilling engagement across university circles.
+* **Core Impact:** Introduced core tracks in Data Structures, Web Development, and Competitive Programming to 50+ peers, successfully expanding enrollment and tracking community event operations.
+* **Skill Tags:** `Community Management` `Technical Outreach` `Event Coordination` `Communication`
 
 ---
 
@@ -170,11 +170,11 @@ Developed a clean low-level execution layer in C featuring deterministic adversa
 
 | Recognition | Details |
 | :--- | :--- |
-| **Algorithmic Thresholds** | Solved over **750 high-difficulty competitive programming problems** across primary runtime engines. |
-| **LeetCode Competitive** | Achieved a verified **1700+ Contest Rating** with 360+ optimized operational solutions. |
-| **CodeChef Divisionals** | Elevated profile to a **3-Star Rating** via systematic contest performance indexing. |
-| **Codeforces Bracket** | Secured a peak **1183 Rating** index, active participant in complex algorithmic rounds. |
-| **National Level Entrance** | Attained an elite **97.64 Percentile** ranking out of over a million examinees in JEE Main 2025. |
+| **Algorithmic Solutions** | Solved **750+ algorithmic problems** combined across LeetCode, CodeChef, and Codeforces. |
+| **LeetCode Standing** | Earned a **1700+ Contest Rating** with more than 360 optimized solutions recorded. |
+| **CodeChef Milestone** | Verified **3-Star Rating** achieved through consistent performance in rated contests. |
+| **Codeforces Profile** | Reached a peak **1183 Rating** as a regular active participant in rated simulation rounds. |
+| **National Examination** | Secured a high **97.64 Percentile** ranking in the competitive JEE Main 2025 entrance exam. |
 
 </div>
 
@@ -182,11 +182,11 @@ Developed a clean low-level execution layer in C featuring deterministic adversa
 
 ## 8. Certifications Section
 
-### 🏛️ Academic Coursework Foundations
-* <img src="https://img.shields.io/badge/IIITDM--Kurnool-Data%20Structures%20%26%20Algorithms-6366F1?style=flat-square&logo=read-the-docs&logoColor=white" alt="DSA Badge" />
-* <img src="https://img.shields.io/badge/IIITDM--Kurnool-Object%20Oriented%20Programming-8B5CF6?style=flat-square&logo=sublimetext&logoColor=white" alt="OOP Badge" />
-* <img src="https://img.shields.io/badge/IIITDM--Kurnool-Fundamentals%20of%20AI-A855F7?style=flat-square&logo=googlebard&logoColor=white" alt="AI Badge" />
-* <img src="https://img.shields.io/badge/IIITDM--Kurnool-Algorithmic%20Analysis-3B82F6?style=flat-square&logo=dependencycheck&logoColor=white" alt="Algorithms Badge" />
+### 🏛️ University Academic Coursework
+* <img src="https://img.shields.io/badge/IIITDM--Kurnool-Data%20Structures-6366F1?style=flat-square&logo=read-the-docs&logoColor=white" alt="DSA Badge" />
+* <img src="https://img.shields.io/badge/IIITDM--Kurnool-Algorithms%20Analysis-8B5CF6?style=flat-square&logo=dependencycheck&logoColor=white" alt="Algorithms Badge" />
+* <img src="https://img.shields.io/badge/IIITDM--Kurnool-OOP%20Concepts-A855F7?style=flat-square&logo=sublimetext&logoColor=white" alt="OOP Badge" />
+* <img src="https://img.shields.io/badge/IIITDM--Kurnool-Fundamentals%20of%20AI-3B82F6?style=flat-square&logo=googlebard&logoColor=white" alt="AI Badge" />
 
 ---
 
@@ -252,19 +252,19 @@ Developed a clean low-level execution layer in C featuring deterministic adversa
 
 ---
 
-## 14. Current Focus Section 
+## 14. Current Focus Section
 
 ```yaml
-system_parameters:
+focus_parameters:
   learning:
-    - "Advanced Operating Systems & Memory Management Structures"
-    - "High-Performance Distributed Database Architectures"
+    - "Advanced Data Structures & Analysis of Algorithms"
+    - "Advanced DOM Manipulation and Modern Application Architecture"
   building:
-    - "Production Enterprise-Level Automation Systems Engine"
-    - "Modular Microservices and Geofenced Data Nodes"
+    - "Refining Robust End-to-End API Integration Workflows"
+    - "Interactive Client-Side Geofenced Interfaces"
   exploring:
-    - "LLMOps Pipeline Deployment Scaling Paradigms"
-    - "Mathematical Foundations of Heuristic Tree Optimization"
+    - "LLM Fine-Tuning and Prompt Chaining Engineering Protocols"
+    - "Mathematical Complexity Reduction Techniques in Competitive Systems"
   open_to:
-    - "High-Impact Core Software Engineering Internships"
-    - "Collaborative Systems Architecture Development Projects"
+    - "Software Engineering & Technical Internship Roles"
+    - "Collaborative Development Within Structured Project Groups"
