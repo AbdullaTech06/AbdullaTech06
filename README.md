@@ -70,6 +70,12 @@ Strong foundation in Data Structures, Algorithm Analysis, and Object-Oriented Pr
   <img src="https://skillicons.dev/icons?i=pytorch" alt="AI and ML" />
 </p>
 
+### Automation & AI Workflows
+<p align="left">
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n Badge" />
+  <img src="https://img.shields.io/badge/Apify-00C7B7?style=flat-square&logo=apify&logoColor=white" alt="Apify Badge" />
+</p>
+
 ### Cloud, DevOps & Tooling
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="DevOps and Tools" />
@@ -219,6 +225,9 @@ Built and trained a simple CNN in PyTorch on the FashionMNIST dataset, covering 
 * <img src="https://img.shields.io/badge/IIITDM--Kurnool-Algorithm%20Analysis-8B5CF6?style=flat-square&logo=dependencycheck&logoColor=white" alt="Algorithms Badge" />
 * <img src="https://img.shields.io/badge/IIITDM--Kurnool-OOP%20Concepts-A855F7?style=flat-square&logo=sublimetext&logoColor=white" alt="OOP Badge" />
 * <img src="https://img.shields.io/badge/IIITDM--Kurnool-Fundamentals%20of%20AI-3B82F6?style=flat-square&logo=googlebard&logoColor=white" alt="AI Badge" />
+
+### External Certifications
+* <img src="https://img.shields.io/badge/Anthropic%20Academy-Claude%20101%20(Perfect%20Score)-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude 101 Badge" />
 
 ---
 
