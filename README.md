@@ -241,29 +241,7 @@ Built and trained a simple CNN in PyTorch on the FashionMNIST dataset, covering 
 ## GitHub Analytics
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=AbdullaTech06&show_icons=true&theme=dark&bg_color=0D1117&title_color=A855F7&icon_color=9333EA&text_color=C9D1D9&border_color=30363D" alt="GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullaTech06&layout=compact&theme=dark&bg_color=0D1117&title_color=A855F7&icon_color=9333EA&text_color=C9D1D9&border_color=30363D" alt="Top Languages" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdullaTech06&theme=dark&background=0D1117&title=A855F7&fire=9333EA&ring=6366F1&text=C9D1D9&border=30363D" alt="GitHub Streak" />
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-## GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AbdullaTech06&theme=onedark&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=false" alt="GitHub Trophies" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdullaTech06&theme=dark&background=0D1117&title=A855F7&fire=9333EA&ring=6366F1&text=C9D1D9&border=30363D" alt="GitHub Streak" />
 </div>
 
 ---
