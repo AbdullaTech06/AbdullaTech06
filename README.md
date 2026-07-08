@@ -62,7 +62,12 @@ Strong foundation in Data Structures, Algorithm Analysis, and Object-Oriented Pr
 
 ### Backend & Databases
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=supabase" alt="Backend and DB" />
+  <img src="https://skillicons.dev/icons?i=supabase,firebase" alt="Backend and DB" />
+</p>
+
+### AI / ML
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=pytorch" alt="AI and ML" />
 </p>
 
 ### Cloud, DevOps & Tooling
@@ -105,6 +110,25 @@ Designed and deployed a 15+ node automated workflow within n8n that handles dail
 </details>
 
 <details>
+<summary>📂 <b>Community Event Discovery Platform (Gather)</b></summary>
+<br>
+
+### Overview
+A community event discovery web app built for GDG Hackathon Solasta 2026 (PS4), enabling users to browse, create, and RSVP to local events.
+
+### Specifications
+| Metric | Specification |
+| :--- | :--- |
+| **Stack** | HTML5, CSS3, JavaScript, Firebase Authentication, Cloud Firestore |
+| **Scale** | Real-time event data with batched writes and query optimization. |
+| **Performance** | Debounced search, Firestore security rules for access control. |
+| **Repository** | [event-discovery-platform](https://github.com/AbdullaTech06/event-discovery-platform) |
+
+### Summary
+Built the frontend and backend integration for a community event discovery platform under hackathon time constraints, using Firebase Authentication for user sessions and Cloud Firestore for event storage. Implemented atomic batched writes for deletions, optimized queries with where/orderBy/limit clauses, debounced search input, and Firestore security rules to protect user and event data.
+</details>
+
+<details>
 <summary>📂 <b>IIITDM Campus Navigator</b></summary>
 <br>
 
@@ -143,6 +167,24 @@ A terminal-based adversarial logic game featuring predictive game tree calculati
 Implemented an interactive terminal game in C with a Player vs AI gameplay system driven by the Minimax Tree Search Algorithm. The system scores potential game states while looking ahead across active paths, deploying depth-aware calculations across 3 separate difficulty levels to ensure perfect positional play on high difficulty.
 </details>
 
+<details>
+<summary>📂 <b>FashionMNIST CNN Classifier</b></summary>
+<br>
+
+### Overview
+A convolutional neural network built with PyTorch to classify clothing images from the FashionMNIST dataset.
+
+### Specifications
+| Metric | Specification |
+| :--- | :--- |
+| **Stack** | Python, PyTorch |
+| **Architecture** | CNN with convolutional and pooling layers |
+| **Repository** | *(pushing soon)* |
+
+### Summary
+Built and trained a simple CNN in PyTorch on the FashionMNIST dataset, covering data loading, convolutional/pooling layer design, and model training loops.
+</details>
+
 ---
 
 ## Experience
@@ -163,7 +205,7 @@ Implemented an interactive terminal game in C with a Player vs AI gameplay syste
 | **Algorithmic Solutions** | Solved **750+ algorithmic problems** combined across LeetCode, CodeChef, and Codeforces. |
 | **LeetCode Standing** | Earned a **1700+ Contest Rating** with more than 360 optimized solutions recorded. |
 | **CodeChef Milestone** | Verified **3-Star Rating** achieved through consistent performance in rated contests. |
-| **Codeforces Profile** | Reached a peak **1183 Rating** as a regular active participant in rated simulation rounds. |
+| **Codeforces Profile** | Reached a peak **1252 Rating (Pupil)** as a regular active participant in rated simulation rounds. |
 | **National Examination** | Secured a **97.64 Percentile** ranking in the JEE Main entrance exam. |
 
 </div>
@@ -190,7 +232,7 @@ Implemented an interactive terminal game in C with a Player vs AI gameplay syste
     <img src="https://img.shields.io/badge/CodeChef-3★%20Competitive-5B4636?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef Badge" />
   </a>
   <a href="https://codeforces.com/profile/AbdullaTech" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-1183%20Rating-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces Badge" />
+    <img src="https://img.shields.io/badge/Codeforces-1252%20Pupil-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces Badge" />
   </a>
 </div>
 
